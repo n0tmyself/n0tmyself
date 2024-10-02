@@ -47,5 +47,6 @@ I'm the first year student of [AI Talent Hub](https://ai.itmo.ru/), [ITMO](https
 
 [tg]: https://t.me/papa_guru
 
-- **Something else**
+------------
+## Something else
 ![Leetcode Stats](https://leetcard.jacoblin.cool/n0tmyself)
