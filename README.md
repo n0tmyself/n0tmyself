@@ -49,4 +49,4 @@ I'm the first year student of [AI Talent Hub](https://ai.itmo.ru/), [ITMO](https
 
 [<img align="left" alt="TG" width="80px" src="https://img.icons8.com/?size=100&id=119322&format=png&color=000000"/>][tg]
 
-[tg]: https://t.me/papa_guru
+[tg]: https://t.me/n0tmyself_x
